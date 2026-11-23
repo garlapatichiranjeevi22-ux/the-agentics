@@ -1,0 +1,26 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20261122211431
+Username: DESKTOP-C54HN4C\manoh
+RunAs User: DESKTOP-C54HN4C\manoh
+Configuration Name: 
+Machine: DESKTOP-C54HN4C (Microsoft Windows NT 10.0.26300.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 27832
+PSVersion: 5.1.26100.9818
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9818
+BuildVersion: 10.0.26100.9818
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\submission\run1_original.txt
+PS C:\Users\manoh\Downloads\agentic-starter-kits\agentic-starter-kits\crewai-kit> uv run python main.py "how small teams can use AI agents in data science"
+
+PS C:\Users\manoh\Downloads\agentic-starter-kits\agentic-starter-kits\crewai-kit> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20261122211501
+**********************
